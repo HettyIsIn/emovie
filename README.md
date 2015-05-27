@@ -11,3 +11,5 @@
  * 在项目下，使用命令 python manage.py runserver 启动项目
 
  * 进入网站 http://127.0.0.1:8000/admin/ 用户名、密码均为 emovie
+
+ * 文件夹下有 emovie.sql  为数据库创建的SQL,请忽略auth用户， django, xadmin等 用于建立后台权限的表格
