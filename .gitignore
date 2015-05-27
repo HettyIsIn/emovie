@@ -1,0 +1,37 @@
+*.py[cod]
+log
+logs/*
+docs/_build/*
+docs/_build
+# C extensions
+*.so
+.idea
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+var
+develop-eggs
+.installed.cfg
+lib
+lib64
+# Installer logs
+pip-log.txt
+# Unit test / coverage reports
+*.swo
+*.swn
+# Translations
+*.mo
+# Mr Developer
+.mr.developer.cfg
+.project
+*.orig
+# vim swap
+*~
+!logs/empty.log
+.settings
+local.py
+setting_local.py
