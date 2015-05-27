@@ -52,10 +52,10 @@ class GlobalSetting(object):
     }
 
     apps_label_title = {
-        'cm': u'8城市城区',
-        'cinema': u'1影院信息',
-        'movie': u'0电影信息',
-        'movie_session': u'2影片排期',
+        'cm': u'城市城区',
+        'cinema': u'影院信息',
+        'movie': u'电影信息',
+        'movie_session': u'影片排期',
     }
 
     site_title = u'影易管理后台'
